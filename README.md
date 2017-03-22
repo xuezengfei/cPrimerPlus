@@ -1,2 +1,0 @@
-# cPrimerPlus
-Learn github
